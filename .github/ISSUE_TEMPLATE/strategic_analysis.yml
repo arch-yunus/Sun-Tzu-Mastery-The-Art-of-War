@@ -1,0 +1,32 @@
+name: "Stratejik Analiz İstemi 🏮"
+description: "Yeni bir doktrin analizi veya stratejik çerçeve önerin."
+title: "[ANALİZ]: "
+labels: ["araştırma", "beklemede"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sun-Tzu Mastery projesine katkıda bulunmak istediğiniz için teşekkürler. Lütfen önerinizi yüksek yoğunluklu bir formatta hazırlayın.
+  - type: textarea
+    id: doctrine_context
+    attributes:
+      label: Doktrin Bağlamı
+      description: Sun Tzu'nun hangi bölümüyle veya prensibiyle ilgili?
+      placeholder: "Örn: Doktrin IV: Taktiksel Düzen..."
+    validations:
+      required: true
+  - type: textarea
+    id: technical_equivalent
+    attributes:
+      label: Modern Teknik Karşılık
+      description: Bu prensibin modern mühendislik veya liderlikteki karşılığı nedir?
+      placeholder: "Örn: Kaos Mühendisliği, Mikro hizmet mimarisi..."
+    validations:
+      required: true
+  - type: textarea
+    id: heuristics
+    attributes:
+      label: Uygulanabilir Sezgiseller
+      description: Bu stratejinin uygulanması için temel kurallar nelerdir?
+    validations:
+      required: true
