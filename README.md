@@ -2,13 +2,28 @@
 
 ![Sun Tzu Mastery Header](docs/assets/header.png)
 
-[![Mevcut Versiyon](https://img.shields.io/badge/Versiyon-2.1.0_Kapsaml%C4%B1-crimson?style=for-the-badge)](https://github.com/arch-yunus/Sun-Tzu-Mastery)
+[![Mevcut Versiyon](https://img.shields.io/badge/Versiyon-2.2.0_Elite-crimson?style=for-the-badge)](https://github.com/arch-yunus/Sun-Tzu-Mastery)
 [![Dil](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-blue?style=for-the-badge)](README.md)
 [![Mühendislik](https://img.shields.io/badge/Alan-Stratejik_M%C3%BChendislik-grey?style=for-the-badge)](core/README.md)
 
-> *"En büyük ustalık, düşmanın direncini savaşmadan kırmaktır."* — **Sun Tzu**
+> *"Savaşı kazanan general, savaştan önce karargahında pek çok hesaplama yapandır."* — **Sun Tzu**
 
 **Sun-Tzu Mastery**, Sun Tzu'nun *Savaş Sanatı* (Sunzi Bingfa) eseri üzerine kurgulanmış seçkin, yüksek yoğunluklu bir araştırma arşivi ve stratejik çerçevedir. Bu proje, basit bir metin arşivinin ötesine geçerek; kadim bilgeliği modern sistem mühendisliği, liderlik ve kriz yönetimi için bir **Stratejik İşletim Sistemi**'ne dönüştürür.
+
+---
+
+## 🚀 Hızlı Başlangıç (Quick Start)
+
+Sistemi hemen kullanmaya başlamak için şu 3 adımı izleyin:
+
+1.  **Hesaplama Yap:** `frameworks/` dizinindeki araçları kullanarak mevcut durumunu analiz et.
+2.  **Doktrini İncele:** `doctrines/` altındaki 13 ana bölümden mevcut krizine veya hedefine uygun olanı seç.
+3.  **Uygula:** `frameworks/` içindeki playbook'lar (SRE, Growth Hacking) ile teoriyi pratiğe dök.
+
+```powershell
+# Stratejik Üstünlüğünü Test Et
+python frameworks/StrategicCalculation.py --tao 9 --commander 8 --heaven_earth 7 --discipline 9 --logistics 8 --training 9
+```
 
 ---
 
@@ -16,40 +31,32 @@
 
 Bu depo, Sun Tzu'nun döktrinlerini orijinal bağlamından çıkarıp 21. yüzyılın ihtiyaçlarına göre yeniden mimari etmeyi amaçlar. Stratejik prensipler; **Sibernetik, Oyun Teorisi ve Meta-Mühendislik** merceğinden analiz edilerek, askeri terminolojiden saf mantık ve adaptif sistemler alanına taşınmıştır.
 
-Temel misyon, **Taoist akışkanlık** (doğal uyum) ile **Legalist disiplin** (pragmatik realizm) arasındaki boşluğu doldurarak, minimum entropi ile hedeflere ulaşmayı sağlayan bütünsel bir yapı oluşturmaktır.
-
 ---
 
-## 🛠 Stratejik Ekosistem Bileşenleri
+## 🛠 Stratejik Ekosistem ve Araçlar
 
-Sıradan bir dokümantasyonun aksine, bu depo **uygulanabilir** araçlar ve derinlemesine araştırma modülleri sunar:
+### 🏮 Stratejik Sözlük (Modern Karşılıklar)
 
-### 1. Hesaplamalı Strateji Araçları (Computational Tools)
-Stratejik kararları veriye dayalı hale getirmek için geliştirilmiş Python tabanlı CLI araçları:
-- **[StrategicCalculation.py](frameworks/StrategicCalculation.py):** Doktrin I'deki "Büyük Hesaplama" (7 Karşılaştırma) parametrelerini kullanarak stratejik üstünlük katsayınızı hesaplar.
-- **[ResourceOptimization.py](frameworks/ResourceOptimization.py):** Doktrin II'ye dayalı olarak, proje sürati (velocity) ile kaynak tüketimi (burn rate) arasındaki sürdürülebilirlik dengesini analiz eder.
+| Kavram | Geleneksel Tanım | **Modern Mühendislik Karşılığı** |
+| :--- | :--- | :--- |
+| **Tao** | Ahlaki Yasa / Yol | Vizyon Hizalanması, Kültür ve Amaç Birliği |
+| **Qi** | Dolaylı / Sürpriz Güç | İnovasyon, "Edge" Özellikler, Asimetrik Rekabet |
+| **Shi** | Momentum / Enerji | Dağıtım Hızı (Velocity), Pazar İvmesi |
+| **Xu** | Boşluk / Zayıflık | Pazar Gaps, Teknik Borç, Rakip Hataları |
 
-### 2. İleri Seviye Araştırma Modülleri
-- **[Sibernetik ve Tao](core/Cybernetics_and_Tao.md):** Geri bildirim döngüleri ve sistemik entropi yönetimi.
-- **[Oyun Teorisi Modelleri](core/Game_Theory_Models.md):** Sun Tzu prensiplerinin Nash Dengesi ve karma stratejilerle matematiksel eşleşmesi.
-- **[OSINT Çerçevesi](doctrines/13_the_use_of_spies/OSINT_Framework.md):** Modern bilgi toplama ve istihbarat yönetimi (Doktrin XIII).
+### 📊 Karar Akış Modeli (OODA Entegrasyonu)
 
-### 3. Uygulama Kitapları (Playbooks)
-- **[SRE Dayanıklılık Kitabı](frameworks/SRE_Resilience_Playbook.md):** Site Reliability Engineering ve sistem yenilmezliği.
-- **[Growth Hacking Sun Tzu](frameworks/Growth_Hacking_Sun_Tzu.md):** Startup büyüme stratejilerinde zayıf ve güçlü noktaların yönetimi.
-
----
-
-## 🏮 Felsefi Sütunlar
-
-"Mastery" çerçevesi üç temel sütun üzerine inşa edilmiştir:
-
-1.  **Akışkanlık ve Adaptasyon (Su Metaforu):** 💧
-    *   Strateji formsuz olmalıdır; suyun girdiği kabın şeklini alması gibi. Katılık, başarısızlığın habercisidir.
-2.  **Bilişsel Derinlik ve Yanılsama:** 🧠
-    *   Tüm rekabet bir algı savaşıdır. Gerçek güç zayıflıkla maskelenir; stratejik kaldıraç görünmeyende saklıdır.
-3.  **Öz-Farkındalık ve Sistematik Entropi:** 🛡️
-    *   *"Kendini tanı, düşmanını tanı."* Başarısızlık nadiren dış faktörlerden kaynaklanır; genellikle içsel körlük ve sistemik çürümenin sonucudur.
+```mermaid
+graph LR
+    A[Gözlemle - Obs] --> B[Yönel - Ori]
+    B --> C[Karar Ver - Dec]
+    C --> D[Eyleme Geç - Act]
+    D --> A
+    style A fill:#1a1a1a,stroke:#dc143c,color:#fff
+    style B fill:#1a1a1a,stroke:#dc143c,color:#fff
+    style C fill:#dc143c,stroke:#1a1a1a,color:#fff
+    style D fill:#1a1a1a,stroke:#dc143c,color:#fff
+```
 
 ---
 
@@ -75,33 +82,38 @@ Depo, her biri yüksek yoğunluklu teknik analizlerle eşleştirilmiş 13 orijin
 
 ---
 
-## 📂 Depo Yapısı (Repository Map)
+## 🛠 İleri Seviye Araç Rehberi
+
+### Stratejik Hesaplama Örneği
+`StrategicCalculation.py` aracını çalıştırdığınızda, sistem size şu durumlardan birini döndürür:
+
+- **STATUS: Tam Hakimiyet** -> Pazar şartları ve ekip vizyonu mükemmel seviyede. Saldırıya geçin.
+- **STATUS: Üstünlük** -> Avantajlısınız ancak riskler mevcut. Manevralara devam edin.
+- **STATUS: Denge** -> Doğrudan çatışmadan kaçının. Dolaylı (Qi) inovasyonlara odaklanın.
+- **STATUS: Kritik Zayıflık** -> Sistemsel çökmeyi önlemek için savunmaya çekilin.
+
+---
+
+## 📂 Depo Haritası (Repository Architecture)
 
 ```text
 .
-├── .github/                # Karmaşık yönetişim ve otomasyonlar
-├── core/                   # Felsefi ve teorik temeller
-├── doctrines/              # 13 ana doktrin ve teknik dökümler
-├── docs/                   # Görsel varlıklar ve dökümanlar
-├── frameworks/             # Hesaplamalı araçlar ve uygulama kılavuzları
-├── CONTRIBUTING.md         # Seçkin stratejistler için katılım rehberi
-└── README.md               # S.O.S Ana giriş belgesi
+├── .github/                # Stratejik yönetişim ve otomasyonlar
+├── core/                   # Felsefi ve Teorik Temeller (Sibernetik, Oyun Teorisi)
+├── doctrines/              # 13 Ana Doktrin ve Teknik Uygulama Dosyaları
+├── docs/                   # Görsel varlıklar ve araştırma dökümanları
+├── frameworks/             # Hesaplamalı araçlar, SRE ve Growth Playbook'ları
+├── CONTRIBUTING.md         # Seçkin geliştiriciler için katılım protokolü
+└── README.md               # S.O.S Ana Giriş Portalı
 ```
 
 ---
 
-## 🤝 Katkıda Bulunmak
+## 🛰 Gelecek Vizyonu (Roadmap)
 
-Sun-Tzu Mastery, kolektif bir stratejik zeka projesidir. Eğer bir mühendis, lider veya stratejist olarak bu çerçeveyi geliştirmek isterseniz, lütfen [katkı rehberini](CONTRIBUTING.md) inceleyin.
-
-> [!NOTE]
-> Tüm katkıların "Yüksek Yoğunluklu" (High-Density) içerik standartlarına uygun olması beklenmektedir.
-
----
-
-## 🛡️ Etik Beyan
-
-Bu arşiv akademik ve profesyonel mükemmeliyet içindir. "Savaş" ve "düşman" kavramları; içsel direnç, sistemik verimsizlikler ve pazar zorlukları için birer metafor olarak ele alınmaktadır. Biz **Sun Tzu İdeali**'ni savunuyoruz: *En yüksek zafer, savaş gerektirmeyendir.*
+- **Faz 3:** AI tabanlı stratejik analiz botu entegrasyonu.
+- **Faz 4:** Gerçek zamanlı pazar telemetrisi üzerinden dinamik doktrin güncellemeleri.
+- **Faz 5:** VR destekli stratejik simülasyon odası dökümantasyonu.
 
 ---
 
