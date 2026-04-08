@@ -2,72 +2,110 @@
 
 ![Sun Tzu Mastery Header](docs/assets/header.png)
 
-> *"Kendini ve başkasını tanıyan kişi, yüz savaşta da tehlikeye düşmez."* — **Sun Tzu**
+<div align="center">
 
-**Sun-Tzu Mastery**, Sun Tzu'nun kadim eseri *Savaş Sanatı*'nı (Sunzi Bingfa) bir **Kişisel Gelişim Rehberi ve Karakter İnşası** doktrini olarak ele alan derinlemesine bir analiz arşivi ve öğrenme platformudur. Bu projenin asıl amacı; eseri sadece askeri bir metin olarak değil, insanın kendi zihniyle, egosuyla ve hayatın zorluklarıyla başa çıkma sanatı olarak incelemektir.
+[![Versiyon](https://img.shields.io/badge/Versiyon-3.1.0_Personal_Mastery-gold?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/arch-yunus/Sun-Tzu-Mastery)
+[![Felsefe](https://img.shields.io/badge/Felsefe-Taoist_Strateji-1a1a1a?style=for-the-badge&logo=opsgenie&logoColor=white)](core/README.md)
+[![Alan](https://img.shields.io/badge/Alan-Karakter_İnşası-black?style=for-the-badge&logo=knowledgebase&logoColor=white)](core/README.md)
 
----
+**"En büyük zafer, kişinin kendi üzerindeki zaferidir."**
 
-## 🏛 Vizyon ve Amacı
-
-Bu depo, Sun Tzu'nun felsefesini şu dört ana hedef doğrultusunda irdeler:
-1.  **Öğrenmek ve Öğretmek:** Eserin her cümlesini felsefi ve edebi açıdan analiz ederek kalıcı bir bilgi mirası oluşturmak.
-2.  **Kişisel Gelişim:** Stratejik disiplini bireysel hayata, etik değerlere ve öz-disipline (Self-Mastery) entegre etmek.
-3.  **Karakter İnşası:** Stoacılık, Taoizm ve Savaş Sanatı ilkelerini birleştirerek sağlam bir "Lider Karakteri" geliştirmek.
-4.  **Çatışma Çözümü:** Günlük hayattaki zorlukları "savaşmadan kazanma" estetiğiyle çözebilme becerisi kazanmak.
+</div>
 
 ---
 
-## 🧘 Felsefi Sütunlar (Kişisel Mastery)
+## 🏛 Vizyon: Karakter, Disiplin ve Bilgelik
 
-1.  **İçsel Tao (Öz-Hizalanma):** 💧
-    *   Doğal akışla uyum içinde olmak. En büyük savaş, kişinin kendi içindeki kaosla olan savaşıdır.
-2.  **Zihinsel Berraklık (Gök ve Yer):** 🧠
-    *   Koşulları objektif değerlendirmek. Duyguların esiri olmadan, sadece gerçeği görerek hareket etmek.
-3.  **Ego Yönetimi (Formsuzluk):** 🛡️
-    *   Esneklik ve tevazu. Bir kap içindeki su gibi, kibirden arınmış ve her duruma uyum sağlayan bir zihin yapısı.
+**Sun-Tzu Mastery**, Sun Tzu'un kadim eseri *Savaş Sanatı*'nı biyolojik ve sosyal bir varlık olarak insanın kendi varoluşsal mücadelesi için bir **Kişisel Gelişim İşletim Sistemi** olarak ele alır. Bu depo, stratejiyi bir "başkalarını yenme" aracı olarak değil, bir **"kendine hakim olma"** (Self-Sovereignty) disiplini olarak analiz eder.
 
 ---
 
-## 📜 13 Doktrin: Kişisel Gelişim Modülleri
+## 🚀 Stratejik Yaşam Metodolojisi (SYMet)
 
-Eserin 13 bölümünü, bireysel gelişim merceğinden derinlemesine inceliyoruz:
+Doktrinleri hayatınıza entegre etmek için şu 5 aşamalı metodolojiyi izleyin:
 
-| # | Bölüm | Kişisel Gelişim Odağı | Amaç |
+1.  **İçsel Tahribatı Durdur (Doktrin II):** Enerjini tüketen gereksiz tartışmaları, kötü alışkanlıkları ve negatif düşünceleri "maliyet analizi" ile terk et.
+2.  **Yenilmez Karakter İnşa Et (Doktrin IV):** Dış dünyaya saldırmadan önce, kendi etik ve disiplin duvarlarını ör.
+3.  **Tevazu ve Esneklik Kazan (Doktrin VII):** Egonun sertliğini kır, su gibi esneklik kazanarak engellerin etrafından dolanmayı öğren.
+4.  **Boşlukları Tespit Et (Doktrin VI):** Kendi zayıf yönlerini dürüstçe fark et ve enerjini sadece dönüştürebileceğin alanlara odakla.
+5.  **Bütünlük İçinde Kazan (Doktrin III):** Sorunları kimseyi yıkmadan, aksine durumu iyileştirerek çöz.
+
+---
+
+## 🗺️ Ustalık Yol Haritası (Mastery Roadmap)
+
+Stratejik bilgelik seviyenizi şu adımlarla yükseltin:
+
+```mermaid
+graph TD
+    A[Acemi: Eseri Tanıma] -->|Gözlem| B[Öğrenci: Doktrin Analizi]
+    B -->|Uygulama| C[Uygulayıcı: Öz-Disiplin]
+    C -->|Felsefe| D[Stratejist: Hayat Entegrasyonu]
+    D -->|Bilgelik| E[Usta: Savaşmadan Kazanma]
+    
+    style A fill:#f9f9f9,stroke:#333
+    style E fill:#gold,stroke:#1a1a1a,color:#000
+```
+
+---
+
+## 📜 On Üç Doktrin: Bireysel Gelişim Arşivi
+
+| # | Doktrin | Kişisel Gelişim Karşılığı | Temel Kazanım |
 | :--- | :--- | :--- | :--- |
-| **01** | [Planlama](doctrines/01_planning) | **Öz-Farkındalık** | Kendi kapasiteni ve sınırlarını dürüstçe ölçmek. |
-| **02** | [Operasyon](doctrines/02_operations) | **Enerji Yönetimi** | Zamanı ve enerjiyi tükenmeden en verimli şekilde kullanmak. |
-| **03** | [Saldırı](doctrines/03_strategic_attack) | **Zararsızlık** | Sorunları kimseyi kırmadan, bütünlüğü bozmadan çözebilmek. |
-| **04** | [Düzen](doctrines/04_tactical_dispositions) | **İçsel Dayanıklılık** | Yenilmez bir karakter ve sarsılmaz bir ruh hali inşa etmek. |
-| **05** | [Enerji](doctrines/05_energy) | **Motivasyon veShi** | Potansiyel gücü doğru zamanda disiplinli eyleme dönüştürmek. |
-| **06** | [Zayıf/Güçlü](doctrines/06_weak_points_and_strong) | **Odaklanma** | Zayıf yönleri geliştirmek, güçlü yönleri keskinleştirmek. |
-| **07** | [Manevra](doctrines/07_maneuvering) | **Adaptasyon** | Hayatın beklenmedik değişimlerine karşı esnek kalabilmek. |
-| **08** | [Varyasyon](doctrines/08_variation_in_tactics) | **Zihinsel Esneklik** | Dogmalardan kurtulup her duruma özel çözümler üretmek. |
-| **09** | [Yürüyüş](doctrines/09_the_army_on_the_march) | **Gözlem Yeteneği** | Çevreyi ve insan psikolojisini doğru okuma sanatı. |
-| **10** | [Arazi](doctrines/10_terrain) | **Sınır Belirleme** | Kendi etki alanını ve sosyal sınırlarını doğru yönetmek. |
-| **11** | [Durumlar](doctrines/11_the_nine_situations) | **Kriz Yönetimi** | Zor anlarda paniklemeden, en doğru kararı verebilmek. |
-| **12** | [Ateş](doctrines/12_the_attack_by_fire) | **Radikal Değişim** | Kötü alışkanlıkları ve yıkıcı düşünceleri kökten yok etmek. |
-| **13** | [Casuslar](doctrines/13_the_use_of_spies) | **Bilgelik ve Bilgi** | Derin bilgi (insight) sahibi olmak ve öngörü geliştirmek. |
+| **01** | [Planlama](doctrines/01_planning) | **Öz-Farkındalık** | Kendini ve çevreni dürüstçe tartma. |
+| **02** | [Operasyon](doctrines/02_operations) | **Enerji Yönetimi** | Zamanı ve iradeyi tasarruflu kullanma. |
+| **03** | [Saldırı](doctrines/03_strategic_attack) | **Çatışma Çözümü** | Zarar vermeden sorun giderme sanatı. |
+| **04** | [Düzen](doctrines/04_tactical_dispositions) | **Öz-Disiplin** | Sarsılmaz bir karakter kalesi kurma. |
+| **05** | [Enerji](doctrines/05_energy) | **Motivasyon** | Potansiyel gücü doğru anda serbest bırakma. |
+| **06** | [Zayıf/Güçlü](doctrines/06_weak_points_and_strong) | **Önceliklendirme** | Kritik eksiklere odaklanma yetisi. |
+| **07** | [Manevra](doctrines/07_maneuvering) | **Zihinsel Çeviklik** | Değişime ve kadere uyum sağlama. |
+| **08** | [Varyasyon](doctrines/08_variation_in_tactics) | **Duygusal Denge** | Duygusal tuzaklardan (öfke, korku) arınma. |
+| **09** | [Yürüyüş](doctrines/09_the_army_on_the_march) | **Gözlem** | Çevredeki ince değişimleri fark etme. |
+| **10** | [Arazi](doctrines/10_terrain) | **Sosyal Sınırlar** | Doğru ortam ve doğru insan seçimi. |
+| **11** | [Durumlar](doctrines/11_the_nine_situations) | **Kriz Psikolojisi** | Zor anlarda paniklememe becerisi. |
+| **12** | [Ateş](doctrines/12_the_attack_by_fire) | **Radikal Arınma** | Eski benliği feda edip yeniden doğma. |
+| **13** | [Casuslar](doctrines/13_the_use_of_spies) | **Öngörü ve Bilgi** | Derin bilgi (insight) ile hareket etme. |
+
+---
+
+## 🏮 Karakter Heuristikleri (Sezgisel İlkeler)
+
+Günlük yaşamda karar alırken bu "altın kuralları" referans alın:
+
+- **Duyguların Esiri Olma:** Öfkeyle verilen kararlar, Doktrin VIII'deki en büyük "yönetici hatasıdır."
+- **Sükunet Güçtür:** Sessizlik, derin bir hazırlığın maskesidir. Gürültü yapanlar genellikle içsel olarak boştur.
+- **Kibiri Terk Et:** Doktrin VI'da belirtildiği gibi, ego bir "doluluktur" (Fullness). Bilgiye yer açmak için zihnini boşalt (Emptying).
+- **Zamanın Ruhu:** Gök (Timing) senin elinde değildir, ancak ona uyum sağlamak senin yeteneğindir.
+
+---
+
+## 🧠 Zihinsel Modeller ve Sun Tzu Entegrasyonu
+
+Sun Tzu'un düşünce yapısı, modern zihinsel modellerle tam uyum içindedir:
+1.  **Inversion (Tersine Çevirme):** Kazanmak yerine, nasıl kaybedebileceğini analiz et (Doktrin IV). Kaybetme yollarını kapattığında, geriye sadece zafer kalır.
+2.  **First Principles (Temel İlkeler):** Karmaşık durumlarda Doktrin I'deki "Beş Faktör"e dön. Tao, Gök, Yer, Lider ve Disiplin değişmez temel taşlardır.
+3.  **Circle of Competence (Yetkinlik Çemberi):** Sadece anladığın ve hakim olduğun "arazilerde" eyleme geç (Doktrin X).
 
 ---
 
 ## 📂 Depo Yapısı
 
-- `core/`: Felsefi temeller, Taoizm, Stoacılık ve Karakter İnşası araştırmaları.
-- `doctrines/`: 13 bölümün kişisel gelişim odaklı derinlemesine incelemeleri.
-- `docs/`: Öğretici notlar, alıntılar ve grafiksel anlatımlar.
-- `strategic_os/`: (Yan Dizin) Stratejinin teknik ve mühendislik sistemlerine uygulanmış hali (Opsiyonel).
+- **[core/](core/):** Felsefi derinlik, Karakter İnşası, Stoacılık ve Taoizm dökümanları.
+- **[doctrines/](doctrines/):** 13 ana doktrin üzerine bireysel gelişim analizleri.
+- **[docs/](docs/):** Öğretici notlar, grafikler ve alıntılar.
+- **[strategic_os/](strategic_os/):** (Yan Dizin) Stratejinin teknik ve mühendislik sistemlerine uyarlandığı terminal araçları.
 
 ---
 
-## 🛡️ Etik Beyan ve Misyon
+## 🕊️ Katkı ve Kolektif Bilgelik
 
-Bu arşiv, bireyin kendini keşfetme ve geliştirme yolculuğuna ışık tutmak için oluşturulmuştur. Savaş terimleri birer metafor olup, gerçek mücadele **kişinin kendi gölgesiyledir.**
+Bu depo, "Öğrenmek ve Öğretmek" için yaşayan bir organizmadır. Bir doktrini hayatınızda nasıl uyguladığınızı, hangi engelleri aştığınızı veya esere dair yeni bir felsefi keşfinizi paylaşmak isterseniz; lütfen [CONTRIBUTING.md](CONTRIBUTING.md) protokolünü izleyerek katkıda bulunun.
 
 ---
 
 <div align="center">
-  <sub>Öğrenmek ve Öğretmek için 🏮 ile inşa edilmiştir.</sub>
+  <sub>Meta-Engineering Research Lab tarafından 🏮 ile inşa edilmiştir.</sub>
   <br>
-  <sup>"En büyük zafer, kişinin kendi üzerindeki zaferidir."</sup>
+  <sup>"Zayıf görün ama güçlü ol; görünmez ol ama her yerde ol."</sup>
 </div>
