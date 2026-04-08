@@ -2,18 +2,12 @@
 
 > *"Düşmanın savunmak için acele etmesi gereken noktalarda görün; beklenmediğiniz yerlere hızla yürüyün."*
 
-## 🏛 Felsefi Derinlik
+## 🧘 Odaklanma ve Öz-Gözlem
 
-Sun Tzu, **Boşluklar (Xu)** ve **Doluluklar (Shi)** yönetimine odaklanır. Güçlü olandan kaçınır, zayıf olana vurursunuz. Bu, kendi "formsuzluğunuzu" korurken düşmanın konfigürasyonunu açığa çıkarma yeteneği gerektirir.
-
-## 🛠 Modern Teknik Karşılık: Rekabet İstihbaratı ve Mavi Okyanus Stratejisi
-
-### 1. Boşluğa Vurmak
-Rakiplerin aşırı yoğunlaştığı alanlarda (kalabalık pazarlar) savaşmak yerine, onların ihmal ettiği veya yavaş kaldığı "boşlukları" bulun. 
-
-### 2. Formsuzluk (Gizlilik)
-Kendi teknik yapınızı ve planlarınızı gizli tutarak rakibi kör edin. Rakip nereye saldıracağını bilmediğinde, her yeri savunmaya zorlanır; bu da her yerde zayıflamasına neden olur.
+1.  **Zayıf ve Güçlü Yanlar (Xu ve Shi):** Kendi zaaflarınızı (Xu) dürüstçe fark edin. Enerjinizi bu zayıflıkları güçlü yanlara (Shi) dönüştürmek için harcayın. 
+2.  **Başkasıyla Yarışmayın:** Başkalarının güçlü yanlarıyla yarışmak yerine, kendi özgün yolunuzu (formsuzluk) keşfedin ve orada ustalaşın.
+3.  **İllüzyon ve Ego:** Egonuzu "zayıf" göstererek kibirden arının, ama içten içe sarsılmaz bir ruh hali inşa edin.
 
 ---
 
-**Temel Prensip:** Rakibi harekete zorla, sen formsuz kal.
+**Temel Prensip:** Kendi üzerinde hakimiyet kuran, her durumda güçlü noktayı bulur.

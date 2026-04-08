@@ -1,11 +1,13 @@
-# Doktrin VII: Manevra (Jun Zheng) 🧭
+# Doktrin VII: Manevra ve Adaptasyon (Jun Zheng) 🧭
 
-> *"Taktiksel manevranın zorluğu, sapmaları doğrudan yollara, talihsizliği ise kazanca çevirmekten ibarettir."*
+> *"Taktiksel manevranın zorluğu, sapmaları doğrudan yollara, talihsizliği ile kazanca çevirmekten ibarettir."*
 
-## 🏛 Felsefi Derinlik
+## 🧘 Esneklik ve Karakter Dayanıklılığı
 
-Manevra, avantajlı konuma düşmandan önce ulaşma sanatıdır. Bu süreçte en büyük zorluk, ekibi yormadan hedefe odaklayabilmektir.
+1.  **Talihsizliği Kazanca Çevirmek:** Hayatın getirdiği zorlukları veya kişisel hataları, karakterinizi güçlendirecek birer "öğrenme fırsatı" olarak görün.
+2.  **Kararlı İlerleme:** Hedefe giden yol her zaman düz değildir; bazen dolanmak (manevra), en hızlı varış yoludur.
+3.  **Zihinsel Çeviklik:** Statik kalmayın; her yeni durum, yeni bir perspektif ve adaptasyon gerektirir.
 
-## 🛠 Modern Teknik Karşılık: Pivot Stratejisi ve İteratif Geliştirme
-- **Hız ve Disiplin:** Hızlı hareket etmek (Deployment hızı) disiplin gerektirir; aksi takdirde ordu (kod yapısı) dağılır.
-- **Dezavantajın Simyası:** Bir teknik sorunu veya krizi, sistemi daha güçlü (Anti-fragile) hale getirmek için bir fırsat olarak kullanın.
+---
+
+**Temel Prensip:** Esneklik, hayatta kalmanın ve gelişimin anahtarıdır.

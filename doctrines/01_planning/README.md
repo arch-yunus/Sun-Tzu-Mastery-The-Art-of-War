@@ -1,39 +1,31 @@
-# Doktrin I: Detaylı Değerlendirme (Lao Ji) 🏮
+# Doktrin I: Planlama ve Öz-Değerlendirme (Lao Ji) 🏮
 
-> *"Savaş sanatı Devlet için hayati önem taşır. Bu bir ölüm kalım meselesidir, ya güvenliğe ya da yıkıma giden yoldur. Dolayısıyla hiçbir şekilde ihmal edilemeyecek bir araştırma konusudur."*
+> *"Kendini ve başkasını tanıyan kişi, yüz savaşta da tehlikeye düşmez; kendini bilip başkasını tanımayanın her zaferi bir yenilgiyle sonuçlanır; ne kendini ne de başkasını tanıyan her savaşta yenilir."*
 
-## 🏛 Felsefi Derinlik
+## 🧘 Karakter İnşası ve Zihinsel Hazırlık
 
-Sun Tzu'nun mantığında "Planlama" (Lao Ji) sadece bir yapılacaklar listesi oluşturmak değildir. Bu, **Büyük Hesaplama**'dır. Beş sabit faktörün hizalanmasını içerir:
-1.  **Tao (Ahlaki Yasa):** Amaç birliği; ekibin ve liderin tek bir ruh gibi hareket etmesi.
-2.  **Gök (Tian):** Çevresel koşullar; zamanlama, mevsimler ve dışsal değişkenler.
-3.  **Yer (Di):** Fiziksel arazi; mesafeler, tehlikeli ve güvenli geçitler, açık alanlar.
-4.  **Komutan (Jiang):** Bilgelik, İçtenlik, Hayırseverlik, Cesaret ve Katılık.
-5.  **Yöntem ve Disiplin (Fa):** Lojistik, hiyerarşi ve organizasyonel yapı.
+Sun Tzu'nun mantığında "Planlama" (Lao Ji), bir eyleme geçmeden önce yapılan **Büyük Öz-Değerlendirme**'dir. Bir kişinin kendi karakterini, sınırlarını ve çevresini objektif bir şekilde tartmasıdır.
 
-## 🛠 Modern Teknik Karşılık: Sistem Spesifikasyonları ve Vizyon
+### Beş Sabit Faktör (Bireysel Uygulama):
 
-Modern mühendislik bağlamında, "Detaylı Değerlendirme" **Gereksinim Mühendisliği** ve **Sistem Mimarisi Prensipleri** anlamına gelir.
+1.  **Tao (İçsel Hizalanma):** Değerlerinizle ne kadar uyumlusunuz? Eğer yaptığınız iş veya yaşam tarzınız kendi ahlaki pusulanızla çatışıyorsa, zafer imkansızdır.
+2.  **Gök (Zamanın Ruhu):** Hayatınızın hangi evresindesiniz? Mevcut fırsatların ve engellerin zamanlaması vizyonunuzla örtüşüyor mu?
+3.  **Yer (Mevcut Durum):** Neredesiniz? Fiziksel, maddi ve sosyal çevrenizin sağladığı imkanlar ve yarattığı kısıtlamalar nelerdir?
+4.  **Komutan (Liderlik / Öz-Disiplin):** Kendi hayatınızın lideri olarak şu beş erdeme ne kadar sahipsiniz:
+    -   **Bilgelik:** Karar verme yetisi.
+    -   **İçtenlik:** Kendine dürüstlük.
+    -   **Hayırseverlik:** İnsanlara yaklaşım.
+    -   **Cesaret:** Adım atma iradesi.
+    -   **Katılık:** Dağılmadan disiplini koruma.
+5.  **Yöntem ve Disiplin (Düzen):** Günlük alışkanlıklarınız, rutininiz ve kendinize koyduğunuz kurallar hiyerarşisi.
 
-### 1. Mühendislik Tao'su (Hizalanma)
-Mühendislik ekibi ortak bir vizyona sahip mi? Ürün, Mühendislik ve Paydaşlar arasındaki çatışma, teknik yetenek ne olursa olsun başarısızlığı garanti eden bir sürtünme yaratır.
+## 🏹 Öğrenme ve Karar Alma
 
-### 2. Gök ve Yer (Pazar ve Altyapı)
-- **Gök:** Pazar zamanlaması, trendler ve teknolojik döngüler.
-- **Yer:** Teknoloji yığını (tech stack), bulut sağlayıcıları ve sistemin fiziksel kısıtları.
-
-### 3. Komutan (Mühendislik Liderliği)
-Bir lider **Bilgeliğe** (mimari kurabilmek), **Katılığa** (kod standartlarını korumak) ve **Hayırseverliğe** (ekibi büyütmek) sahip olmalıdır.
-
-## 📊 Temel Sezgiseller: 7 Karşılaştırma
-
-Herhangi bir uygulamadan önce avantajınızı nicelleştirin:
-- Hangi tarafın ekip morali daha yüksek?
-- Hangi lider daha yetenekli?
-- Kim daha iyi altyapıya (Gök/Yer avantajları) sahip?
-- Disiplin (CI/CD, kod incelemesi) hangi tarafta daha titiz uygulanıyor?
-- Kim daha güçlü lojistiğe (Geliştirici üretkenliği) sahip?
+Herhangi bir büyük karardan (kariyer değişikliği, bir alışkanlığı bırakma vb.) önce şu sorularla "hesaplama" yapın:
+- Bu karar benim "Tao"ma (öz-değerlerime) uygun mu?
+- Bu eylem için zihinsel ve fiziksel "enerjim" yeterli mi?
+- Disiplinim bu yükü kaldırmaya uygun mu?
 
 ---
 
-**Temel Prensip:** Planlamada "Büyük Hesaplama" yapmayan, belirsizliğe yenilir.
+**Temel Prensip:** Gerçek planlama, dışarıdaki düşmanı yenmek değil, içerideki belirsizliği yok etmektir.

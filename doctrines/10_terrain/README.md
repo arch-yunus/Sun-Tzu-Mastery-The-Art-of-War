@@ -1,21 +1,5 @@
-# Doktrin X: Arazi (Di Xing) 🗺️
+# Doktrin X: Konumlandırma ve Sınırlar (Di Xing) 🗺️
 
-> *"Araziyi anlamak, zaferi garantilemenin anahtarıdır. Yüce bir generalin sorumluluğu araziyi kusursuzca incelemektir."*
-
-## 🏛 Felsefi Derinlik
-
-Savaşın altı farklı türdeki arazi yapısını ve buralardaki avantaj/dezavantajları anlatır. Bazı araziler erişilebilir, bazıları tuzak doludur, bazıları ise dar ve kısıtlıdır.
-
-## 🛠 Modern Teknik Karşılık: Pazar Segmentasyonu ve Yatay Ölçekleme
-
-Hangi "arazide" (market segmenti / teknoloji ekosistemi) savaştığınızı bilmek, stratejinizi belirler.
-
-### 1. Erişilebilir Araziler (Açık Pazarlar)
-İlk giren avantajına sahip olduğunuz, henüz standartların oluşmadığı alanlar.
-
-### 2. Dar Geçitler (Niş Alanlar)
-Kısıtlı ama yüksek değerli niş pazarlar. Burada savunma, saldırıdan daha önemlidir.
-
----
-
-**Temel Prensip:** Zemini bilmeyen, üzerine inşa edemez.
+## 🧘 Sosyal Yaşam ve Sınırlar
+1.  **Sınırlarını Belirle:** Sizi geliştiren ortamlarda (verimli arazi) var olun, sizi tüketen ve aşağı çeken (dar geçitler) sosyal çevrelerden uzak durun.
+2.  **Öz-Gözlem:** Karakterinizin ve yeteneklerinizin en güçlü olduğu alanlarda konumlanın ve orada derinleşin.
