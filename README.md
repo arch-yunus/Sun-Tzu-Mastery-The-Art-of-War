@@ -2,135 +2,132 @@
 
 ![Sun Tzu Mastery Header](docs/assets/header.png)
 
-[![Mevcut Versiyon](https://img.shields.io/badge/Versiyon-2.3.0_Ultra--Density-crimson?style=for-the-badge)](https://github.com/arch-yunus/Sun-Tzu-Mastery)
-[![Dil](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-blue?style=for-the-badge)](README.md)
-[![Mühendislik](https://img.shields.io/badge/Alan-Stratejik_M%C3%BChendislik-grey?style=for-the-badge)](core/README.md)
-[![İşletim Sistemi](https://img.shields.io/badge/OS-Strategic_Operating_System-1a1a1a?style=for-the-badge)](core/README.md)
+<div align="center">
 
-> *"Savaşı kazanan general, savaştan önce karargahında pek çok hesaplama yapandır. Hesaplaması çok olan kazanır, az olan kaybeder. Hiç hesaplama yapmayan ne olur?"* — **Sun Tzu**
+[![Versiyon](https://img.shields.io/badge/Versiyon-3.0.0_Sovereign-crimson?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/arch-yunus/Sun-Tzu-Mastery)
+[![Alan](https://img.shields.io/badge/Alan-Stratejik_M%C3%BChendislik-black?style=for-the-badge&logo=knowledgebase&logoColor=white)](core/README.md)
+[![Sistem](https://img.shields.io/badge/Sistem-Antifragile_OS-1a1a1a?style=for-the-badge&logo=opsgenie&logoColor=white)](core/README.md)
+[![Lisans](https://img.shields.io/badge/Lisans-MIT_Elite-blue?style=for-the-badge)](LICENSE)
 
-**Sun-Tzu Mastery**, Sun Tzu'sunun *Savaş Sanatı* (Sunzi Bingfa) eseri üzerine kurgulanmış seçkin, yüksek yoğunluklu bir araştırma arşivi ve stratejik çerçevedir. Bu sistem, kadim bilgeliği modern sistem mühendisliği, ürün yönetimi ve kriz yönetimi için bir **Stratejik İşletim Sistemi**'ne dönüştürür.
+**"Savaşı kazanan general, savaştan önce karargahında binlerce hesaplama yapandır. Hesaplaması çok olan kazanır, az olan kaybeder."**
 
----
-
-## 🚀 Hızlı Başlangıç (Quick Start)
-
-Sistemi hemen kullanmaya başlamak için şu 3 adımı izleyin:
-
-1.  **Hesaplama Yap:** `frameworks/` dizinindeki araçları kullanarak mevcut durumunu analiz et.
-2.  **Doktrini İncele:** `doctrines/` altındaki 13 ana bölümden mevcut krizine veya hedefine uygun olanı seç.
-3.  **Uygula:** `frameworks/` içindeki playbook'lar (SRE, Growth Hacking) ile teoriyi pratiğe dök.
-
-```powershell
-# Stratejik Üstünlüğünü Test Et
-python frameworks/StrategicCalculation.py --tao 9 --commander 8 --heaven_earth 7 --discipline 9 --logistics 8 --training 9
-```
+</div>
 
 ---
 
-## 🏛 Stratejik Mimari ve Doktrin Akışı
+## 🏛 Stratejik Vizyon: "Sovereign" Mühendislik
 
-Sun-Tzu Mastery, bir projenin yaşam döngüsünü 13 evrelik bir doktrin akışı olarak görür. Aşağıdaki şema, stratejik durumların birbirini nasıl tetiklediğini gösterir:
+**Sun-Tzu Mastery (S.O.S)**, basit bir bilgi bankası değildir; bir organizasyonun zekasını, hızını ve dayanıklılığını optimize eden bir **Meta-İşletim Sistemi**'dir. Modern sistemlerin karmaşıklığı (Chaos), belirsizliği (Entropy) ve rekabeti (Game Theory) karşısında; Sun Tzu'nun 2500 yıllık doktrinlerini birer **Algoritmik Karar Destek Mekanizması**'na dönüştürüyoruz.
+
+Bu sistem, organizasyonunuzu sadece "dayanıklı" (Resilient) değil, **Antifragile** (Kaostan beslenen) hale getirmeyi hedefler.
+
+---
+
+## 🚀 Stratejik Olgunluk Modeli (Strategic Maturity Model - SMM)
+
+Projelerinizin ve ekiplerinizin stratejik seviyesini belirleyin:
+
+| Seviye | Durum | Tanım | Doktrin Odağı |
+| :--- | :--- | :--- | :--- |
+| **Lvl 1** | **Reaktif** | Sadece kriz anında tepki verir. Planlama yoktur. | Doktrin XI (Kriz) |
+| **Lvl 2** | **Operasyonel** | Kaynakları yönetebilir ancak vizyon eksiktir. | Doktrin II (Maliyet) |
+| **Lvl 3** | **Taktiksel** | Savunma hatları kuruludur, sistem stabildir. | Doktrin IV (Düzen) |
+| **Lvl 4** | **Stratejik** | İvme (Shi) kazanılmış, pazar boşlukları izlenir. | Doktrin V (Enerji) |
+| **Lvl 5** | **Sovereign** | Rekabeti savaşmadan bitirir, pazarı domine eder. | Doktrin III (Saldırı) |
+
+---
+
+## 📊 Karar Motoru: Sun-Tzu Karar Döngüsü (STDE)
+
+Aşağıdaki diyagram, kriz veya fırsat anlarında sistemin nasıl bir geri bildirim döngüsü (Cybernetic Loop) ile çalıştığını gösterir:
 
 ```mermaid
 graph TD
-    A[01_Planlama] --> B[02_Operasyon]
-    B --> C[03_Stratejik_Saldırı]
-    C --> D[04_Taktiksel_Düzen]
-    D --> E[05_Enerji_Shi]
-    E --> F[06_Zayıf_Güçlü_Noktalar]
-    F --> G[07_Manevra]
-    G --> H[08_Varyasyonlar]
-    H --> I[09_Yürüyüş]
-    I --> J[10_Arazi]
-    J --> K[11_Dokuz_Durum]
-    K --> L[12_Ateşle_Saldırı]
-    L --> M[13_Casusluk]
-    M --> A
-    style A fill:#1a1a1a,stroke:#dc143c,color:#fff
-    style M fill:#dc143c,stroke:#1a1a1a,color:#fff
+    subgraph Gözlem_Safhası
+    A[İstihbarat Topla - Doktrin 13] --> B[Zayıf/Güçlü Noktaları Belirle - Doktrin 6]
+    end
+    
+    subgraph Hesaplama_Safhası
+    B --> C{Büyük Hesaplama - Doktrin 1}
+    C -- "Üstünlük Var" --> D[Saldırı Stratejisi - Doktrin 3]
+    C -- "Eşitlik/Zayıflık" --> E[Taktiksel Savunma - Doktrin 4]
+    end
+    
+    subgraph Uygulama_Safhası
+    D --> F[Momentum Yarat - Doktrin 5]
+    E --> G[Manevra Yap - Doktrin 7]
+    F --> H[Nihai Zafer - Savaşmadan Kazanma]
+    G --> A
+    end
+    
+    style C fill:#dc143c,stroke:#1a1a1a,color:#fff
+    style H fill:#ffd700,stroke:#1a1a1a,color:#000
 ```
 
 ---
 
-## 🛠 Stratejik Sözlük ve Mühendislik Karşılıkları
+## 📜 On Üç Doktrin: Mühendislik Masterclass Serisi
 
-| Kavram | Geleneksel Tanım | **Modern Mühendislik Karşılığı** | **CSF (Kritik Başarı Faktörü)** |
+| # | Doktrin | Modern Teknik Paradigma | Antifragility Karşılığı |
 | :--- | :--- | :--- | :--- |
-| **Tao** | Yol / AHLAKİ Yasa | Vizyon Hizalanması / Kültür | Ekip içi bağlılık skoru > %90 |
-| **Qi** | Dolaylı / Sürpriz Güç | İnovasyon / Disruptive Tech | R&D yatırım oranı |
-| **Shi** | Momentum / Enerji | Dağıtım Hızı (Velocity) | Haftalık Deployment sayısı |
-| **Xu** | Boşluk / Zayıflık | Market Gaps / Teknik Borç | Rakip hata raporları / Bug bounty |
-| **Jiang** | Lider / Komutan | Mühendislik Liderliği / CTO | Karar alma hızı ve vizyon |
+| **01** | [Planlama](doctrines/01_planning) | **System Specs & Design Docs** | *Optionality:* Planın esnekliği riski azaltır. |
+| **02** | [Operasyon](doctrines/02_operations) | **FinOps & Resource Allocation** | *Skin in the Game:* Kaynak maliyeti sorumluluk getirir. |
+| **03** | [Saldırı](doctrines/03_strategic_attack) | **Market Disruption & Mergers** | *Barbell Strategy:* Düşük riskli temel, yüksek riskli inovasyon. |
+| **04** | [Düzen](doctrines/04_tactical_dispositions) | **SRE & Hardened Infrastructure** | *Via Negativa:* Gereksiz kodun temizlenmesi güvenliği artırır. |
+| **05** | [Enerji](doctrines/05_energy) | **High-Frequency Deployment (CI/CD)** | *Convexity:* Küçük hatalardan büyük öğrenimler devşir. |
+| **06** | [Zayıf/Güçlü](doctrines/06_weak_points_and_strong) | **Feature Gaps & MVP Strategy** | *The Lindy Effect:* Kalıcı olanın üzerine inşa et. |
+| **07** | [Manevra](doctrines/07_maneuvering) | **Pivot & Continuous Delivery** | *Ergodicity:* Sistemin hayatta kalma kabiliyeti. |
+| **08** | [Varyasyon](doctrines/08_variation_in_tactics) | **Extreme Programming & Edge Cases** | *Robustness:* Değişen şartlara uyum. |
+| **09** | [Yürüyüş](doctrines/09_the_army_on_the_march) | **Observability & Real-time Metrics** | *Feedback Loops:* Hızlı veri, hızlı eylem. |
+| **10** | [Arazi](doctrines/10_terrain) | **Cloud Topology & Scalability** | *Scalability:* Sınırların ötesine büyüme. |
+| **11** | [Durumlar](doctrines/11_the_nine_situations) | **Incident Response & Post-Mortems** | *Post-Traumatic Growth:* Krizden güçlenerek çıkma. |
+| **12** | [Ateş](doctrines/12_the_attack_by_fire) | **Chaos Engineering** | *Stress Testing:* Sistemin sınırlarını zorlama. |
+| **13** | [Casuslar](doctrines/13_the_use_of_spies) | **OSINT & Competitive Intelligence** | *Information Asymmetry:* Bilgi güçtür. |
 
 ---
 
-## 📜 On Üç Doktrin (SOPs)
+## 🛠 Stratejik Araç Seti (Sovereign Tools)
 
-Depo, her biri yüksek yoğunluklu teknik analizlerle eşleştirilmiş 13 orijinal bölüm etrafında yapılandırılmıştır:
+S.O.S, sadece dosyalardan ibaret değildir; terminalinizde yaşayan bir strateji merkezidir.
 
-| # | Bölüm | Odak Noktası | Teknik Alan |
-| :--- | :--- | :--- | :--- |
-| **01** | [Detaylı Değerlendirme](doctrines/01_planning) | Tao, Gök, Yer, Komutan | Sistem Spesifikasyonları |
-| **02** | [Savaşın Maliyeti](doctrines/02_operations) | Kaynak Yönetimi | Cloud OpEx & FinOps |
-| **03** | [Stratejik Saldırı](doctrines/03_strategic_attack) | Bütünlük ve Birlik | Zero-Downtime Migration |
-| **04** | [Taktiksel Düzen](doctrines/04_tactical_dispositions) | Yenilmezlik | Cyber Defense & SRE |
-| **05** | [Enerji (Shi)](doctrines/05_energy) | Momentum | DevOps Velocity |
-| **06** | [Zayıf ve Güçlü](doctrines/06_weak_points_and_strong) | Boşluklar ve Doluluk | Market Gaps & OSINT |
-| **07** | [Manevra](doctrines/07_maneuvering) | Sapmaları Doğruya Çevirmek | Pivot & Iterative Dev |
-| **08** | [Çeşitlilik](doctrines/08_variation_in_tactics) | Beş Tuzak | Edge Case Management |
-| **09** | [Yürüyüş](doctrines/09_the_army_on_the_march) | Çevresel Gözlem | Observability & Metrics |
-| **10** | [Arazi](doctrines/10_terrain) | Konumlandırma | Market Segmentation |
-| **11** | [Dokuz Durum](doctrines/11_the_nine_situations) | Psikolojik Arazi | Incident Response |
-| **12** | [Ateşle Saldırı](doctrines/12_the_attack_by_fire) | Altyapı İmhası | Chaos Engineering |
-| **13** | [Casuslar](doctrines/13_the_use_of_spies) | Bilgi Asimetrisi | Competitive Intelligence |
+### 🐍 Stratejik Python Motorları
+- **[StrategicCalculation.py](frameworks/StrategicCalculation.py):** Sistemin Tao'sunu, Liderliğini ve Lojistiğini matematiksel olarak tartın.
+- **[ResourceOptimization.py](frameworks/ResourceOptimization.py):** Teknik borç (Technical Debt) ile geliştirme hızı (Velocity) arasındaki oranı optimize edin.
+
+```powershell
+# Master Modunda Stratejik Hesaplama Başlat
+python frameworks/StrategicCalculation.py --tao 10 --commander 10 --heaven_earth 9 --discipline 10 --logistics 10 --training 10
+```
 
 ---
 
-## 🛠 Stratejik Uygulama Çerçevesi (SIF)
-
-Bu sistemi bir projeye entegre etmek için aşağıdaki 5 aşamayı izleyin:
-
-1.  **Değerlendirme Fazı:** `StrategicCalculation.py` ile "Büyük Hesaplama"yı yap. Sistemin "Tao"sunu belirle.
-2.  **Müstahkem Savunma:** Doktrin IV temelinde sistemi yenilmez kıl (Security, SRE, TDD).
-3.  **Hız ve Momentum:** CI/CD hatlarını kurarak `Shi` (enerji) biriktir.
-4.  **Asimetrik Saldırı:** Rakip zayıflıklarını (Xu) tespit et ve `Qi` (dolaylı metodlar) ile pazara gir.
-5.  **İstihbarat Döngüsü:** Sürekli OSINT ve telemetri ile döngüyü yeniden başlat.
-
----
-
-## 📂 Depo Haritası (Repository Architecture)
+## 📂 Entegre Yapı ve Mimari
 
 ```text
 .
-├── .github/                # Stratejik yönetişim ve otomasyonlar
-│   ├── ISSUE_TEMPLATE/     # Seçkin analiz istemleri
-│   └── workflows/          # CI/CD (doc-lint.yml)
-├── core/                   # Felsefi ve Teorik Temeller
-│   ├── Cybernetics_and_Tao.md
-│   └── Game_Theory_Models.md
-├── doctrines/              # 13 Ana Doktrin ve Uygulama Dosyaları
-├── docs/                   # Görsel varlıklar ve dökümanlar
-├── frameworks/             # Hesaplamalı araçlar ve Playbook'lar
-│   ├── StrategicCalculation.py
-│   ├── SRE_Resilience_Playbook.md
-│   └── Growth_Hacking_Sun_Tzu.md
-├── CONTRIBUTING.md         # Seçkin katılım protokolü
-└── README.md               # S.O.S Ana Giriş Portalı
+├── .github/                # Stratejik Yönetişim (ISSUE/PR/CI-CD)
+├── core/                   # Yazımsal Sütunlar (Sibernetik, Oyun Teorisi, Antifragility)
+├── doctrines/              # 13 On-Chain Stratejik Doktrin
+├── docs/                   # Görsel Varlıklar ve Mimari Şemalar
+├── frameworks/             # Playbook'lar (SRE, Growth) ve Hesaplama Motorları
+├── CONTRIBUTING.md         # Katılım Protokolü (Elite Katkıcılar İçin)
+└── README.md               # S.O.S Ana Kontrol Paneli
 ```
 
 ---
 
-## 🛰 Gelecek Vizyonu (Phase 3 & 4)
+## 🛰 Gelecek Projeksiyonu: Autonomous Strategist
 
-- [ ] **AI-Strategist:** Doktrinler üzerinden otomatik karar öneren LLM entegrasyonu.
-- [ ] **Real-time Telemetry:** Pazar verilerini GitHub metriklerine bağlayan dinamik dashboard.
-- [ ] **Strategic Simulator:** Kararların olası sonuçlarını simüle eden gelişmiş Python motoru.
+Sistem, gelecekte bir **Otonom Stratejist** (`StrategicAI`) haline gelmeyi hedeflemektedir:
+- **Faz 4:** Pazar verilerini (Coinbase, GitHub, AWS Health) dinleyen ve otomatik Doktrin öneren botlar.
+- **Faz 5:** Stratejik simülasyonların Unreal Engine / Unity ortamında görselleştirilmesi.
 
 ---
 
 <div align="center">
-  <sub>Meta-Engineering Research Lab tarafından 🏮 ile inşa edilmiştir.</sub>
+  <sub><strong>Meta-Engineering Research Lab</strong> tarafından inşa edilmiştir.</sub>
   <br>
-  <sup>"Zayıf görün ama güçlü ol; görünmez ol ama her yerde ol."</sup>
+  <img src="https://img.shields.io/badge/Status-Mastery_Confirmed-success?style=flat-square" />
+  <br>
+  <sub><em>"Savaş kazanmak bir meziyet değildir. Asıl meziyet, savaşacak düşman bırakmamaktır."</em></sub>
 </div>
